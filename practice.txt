@@ -2,8 +2,5 @@ local changes on round 2 branch
 local changes on round 2 branch
 local changes on round 2 branch
 new text: "It sure looked as if closely guarded national security information was being used to make a quick buck. As Nobel Prize–winning economist Paul Krugman reasons, if a spy were giving our adversaries this kind of info, we’d certainly call it treason. So why not use the same language now?"
-<<<<<<< HEAD
-=======
 new new text: "Artemis II begins its journey: Four astronauts blasted off from Kennedy Space Center in Florida this evening on a monumental 10-day mission to circumnavigate the moon."
 new new new text: "Help people interested in this repository understand your project."
->>>>>>> feature/update-practice-file-3
